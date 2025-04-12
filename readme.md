@@ -16,7 +16,7 @@ Es importante destacar que **estos increibles modpacks son unicamente de Fabric*
 
 ## 📥 Instalación
 
-1. Instala [**Fabric**](https://fabricmc.net/use/installer/) y su [**Fabric API**](https://modrinth.com/mod/fabric-api) (Si el modpack no lo contiene) para la version que utilizes (EJ. 1.21.4, 1.16. 1.20.2, etc.).
+1. Instala [**Fabric**](https://fabricmc.net/use/installer/) y su [**Fabric API**](https://modrinth.com/mod/fabric-api) (Si el modpack no lo contiene) para la version que utilizes (EJ. 1.21.4, 1.19. 1.20.2, etc.).
 2. Ve a la sección de [**Releases**](https://github.com/BKT9GD/Java-modpack-optimize/releases).
 3. Descarga el archivo `.zip` del modpack que corresponda a tu version
 4. Abre tu launcher (CurseForge, SKlauncher, Minecraft Launcher, etc.).
